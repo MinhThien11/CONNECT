@@ -74,6 +74,8 @@
 *.easyinvoice.vn,
 *.192.168.1.***,
 *.192.168.1.,
+*.vietcombank.com.vn,
+https://vietcombank.com.vn,
 https://vin-hoadon.com,
 https://easyinvoice.vn,
 https://be.com.vn,
@@ -203,3 +205,5 @@ https://www.office.com,
 https://www.tecno-mobile.com,
 https://zalo.me,
 https://zalo.salework.net
+
+
